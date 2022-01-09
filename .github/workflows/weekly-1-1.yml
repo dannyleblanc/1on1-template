@@ -1,0 +1,17 @@
+name: Weekly new 1:1 issue
+on:
+  workflow_dispatch:
+  schedule:
+    ## Crontask to occur every Tuesday 4 AM UTC.
+    - cron: '0 4 * * 2'
+jobs:
+  createWeekly1-1Issue:
+    name: Create weekly new 1:1 issue.
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - uses: JasonEtco/create-an-issue@v2
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        filename: .github/ISSUE_TEMPLATE/weekly-1-1.md
