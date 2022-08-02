@@ -13,5 +13,3 @@ If you'd rather prefer a slightly different cycle that's cool; we'll just tweak 
 | *Job title*           | Job title       |
 | *Job grade*           | 7, 8, 9, 10     |
 | *Date joined*         | 20XX-XX-XX      |
-| *Last promotion*      | 20XX-XX-XX      |
-| *Last vacation taken* | 20XX-XX-XX      |
