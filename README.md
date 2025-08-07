@@ -1,4 +1,5 @@
 # Your name
+## Job title
 
 ## What's this?
 
@@ -7,9 +8,4 @@ This is our repository where we keep track of our conversations and your employm
 Link to your IDP
 
 ## Overview
-
-| Key           | Value                   |
-| ------------- | ----------------------- |
-| *Job title*           | Job title       |
-| *Job grade*           | 7, 8, 9, 10     |
-| *Date joined*         | 20XX-XX-XX      |
+|
