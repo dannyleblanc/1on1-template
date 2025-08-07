@@ -3,7 +3,7 @@ The IDP is a tool for employees to document and showcase their accomplishments, 
 
 When completing this form, reference our [3 circles of Impact](https://thehub.github.com/hr/total-rewards/performance-and-development/#impact-drives-rewards-the-3-circles-of-impact), [Leadership Principles](https://thehub.github.com/github/#leadership-principles), and[Manager Fundamentals](https://thehub.github.com/hr/people-managers/)
 
-* Record accomplishments where you’ve demonstrated consistent impact (~[3 circles of Impact](https://thehub.github.com/hr/total-rewards/performance-and-development/#impact-drives-rewards-the-3-circles-of-impact)~)
+* Record accomplishments where you’ve demonstrated consistent impact ([3 circles of Impact](https://thehub.github.com/hr/total-rewards/performance-and-development/#impact-drives-rewards-the-3-circles-of-impact))
   * Individual accomplishments that contribute to Premium Plus team, business, or customer results
   * Results that build on the work, ideas, or efforts of others
   * Contributions to the success of others - uplifting the team and delivery of the P+ program
