@@ -14,14 +14,14 @@ When completing this form, reference our [3 circles of Impact](https://thehub.gi
 
 ⠀
 ## References
-* ~[CRE OARs](https://github.com/github/premium-support/blob/main/resources/CRE-OARs.md)~
-* ~[Sr CRE OARs](https://github.com/github/premium-support/blob/main/resources/SR-CRE-OARs.md)~
-* ~[Staff CRE OARs](https://github.com/github/premium-support/blob/main/resources/STAFF-CRE-OARs.md)~
+* [CRE OARs](https://github.com/github/premium-support/blob/main/resources/CRE-OARs.md)
+* [Sr CRE OARs](https://github.com/github/premium-support/blob/main/resources/SR-CRE-OARs.md)
+* [Staff CRE OARs](https://github.com/github/premium-support/blob/main/resources/STAFF-CRE-OARs.md)
 
 ⠀
 | **Name and Handle:** |  |
 |--:|---|
-| **Reports to:** | ~[Danny LeBlanc](mailto:dannyleblanc@github.com)~ |
+| **Reports to:** | [Danny LeBlanc](mailto:dannyleblanc@github.com) |
 
 
 
