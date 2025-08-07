@@ -1,7 +1,7 @@
 # CRE Individual Development Plan 
 The IDP is a tool for employees to document and showcase their accomplishments, growth, and readiness for greater responsibilities. It focuses on three main areas: consistent impact, leadership principles, and manager fundamentals. Employees should record individual and team contributions, highlight their alignment with organizational goals, and provide examples of their impact. They should also document their efforts to gain new skills, demonstrate leadership, and foster diversity and inclusion. The IDP includes sections for technical and business knowledge, where employees can detail their contributions and readiness for advanced roles, and growth areas, where they can identify skills to develop and support needed from their manager.
 
-When completing this form, reference our [3 circles of Impact](https://thehub.github.com/hr/total-rewards/performance-and-development/#impact-drives-rewards-the-3-circles-of-impact), [Leadership Principles](https://thehub.github.com/github/#leadership-principles), and[Manager Fundamentals](https://thehub.github.com/hr/people-managers/)
+When completing this form, reference our [3 circles of Impact](https://thehub.github.com/hr/total-rewards/performance-and-development/#impact-drives-rewards-the-3-circles-of-impact), [Leadership Principles](https://thehub.github.com/github/#leadership-principles), and [Manager Fundamentals](https://thehub.github.com/hr/people-managers/)
 
 * Record accomplishments where you’ve demonstrated consistent impact ([3 circles of Impact](https://thehub.github.com/hr/total-rewards/performance-and-development/#impact-drives-rewards-the-3-circles-of-impact))
   * Individual accomplishments that contribute to Premium Plus team, business, or customer results
