@@ -5,6 +5,10 @@ title: 1:1 Week {{ current_date | date("add", 7, "days") | date('W') }} - {{ cur
 labels: Weekly 1-1
 ---
 
+<!--- To add a link to the previous week's issue, update the link below with the repo name and un-comment the line below:
+
+:previous_track_button: [Previous Issue](https://github.com/github/UPDATE_REPONAME!!!/issues/{{previousIssueNumber}}) --->
+
 ## Weekly 1-1
 
 Please copy and paste the following template and go through the questions before we meet for our 1:1. Thank you!
@@ -15,7 +19,7 @@ Anything that's on your mind! Work related or not.
 
 - ...
 
-### What can we celebrate?
+### Recent accomplishments?
 Difficult tasks you accomplished, ticket's you tackled, work you're proud of, kudos you've gotten.
 
 - ...
@@ -30,8 +34,8 @@ Tasks you have committed to working on within your team's radar or within your o
 
 - ...
 
-### Do you have any feedback for me or your teammates?
-Any feedback you would like to share or things, you think, I should know about.
+### Follow-ups from previous meetings?
+Updates from previous 1:1 conversations.
 
 - ...
 ```
