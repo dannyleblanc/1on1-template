@@ -32,6 +32,11 @@ How things can go smoother, times you were annoyed, areas where clarity is neede
 ### What is the most important thing you’d like to accomplish or have accomplished this week?
 Tasks you have committed to working on within your team's radar or within your own project plan or based on your personal goals.
 
+
+- ...
+### Project updates?
+Provide latest update on project related work that you're assigned to.
+
 - ...
 
 ### Follow-ups from previous meetings?
